@@ -47,7 +47,7 @@ The key tasks to address this problem include:
 
 ### 5. Machine Learning Model Selection
    - Identify the best machine learning models for dynamic pricing optimization.
-   - Compare model performance using key metrics (e.g., RMSE, MAE, revenue impact).
+   - Compare model performance using key metrics (e.g., RMSE, MAE).
 
 ---
 
